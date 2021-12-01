@@ -2,3 +2,5 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Harry Potter'
 theme = 'hugo-casper3'
+publishDir= 'docs'
+
