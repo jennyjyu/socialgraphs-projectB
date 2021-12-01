@@ -1,6 +1,6 @@
 baseURL = 'https://jennyjyu.github.io/socialgraphs-projectB/'
 languageCode = 'en-us'
-title = 'Harry Potter'
+title = 'Harry Potter Wiki Analysis'
 theme = 'hugo-casper3'
 publishDir= 'docs'
 

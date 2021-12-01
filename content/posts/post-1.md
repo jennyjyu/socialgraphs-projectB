@@ -1,5 +1,5 @@
 ---
-title: "The Character Network of Harry Potter"
+title: "1 - The Character Network of Harry Potter"
 date: 2021-11-01T09:34:43+01:00
 draft: true
 ---
