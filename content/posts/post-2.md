@@ -1,5 +1,5 @@
 ---
-title: "2 - The Distributions"
+title: "2 - The Attribute Distributions"
 date: 2020-11-01T09:34:43+01:00
 draft: true
 ---
