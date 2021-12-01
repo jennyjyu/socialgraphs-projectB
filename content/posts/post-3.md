@@ -6,7 +6,7 @@ draft: true
 
 To get a little better understanding of the "interactions" going on between the wiki pages we will look at the **degree distributions** of the different characters, and let that decide how popular a character is. The degree distributions are deduced by the links from the different wiki pages. If a *character X* mentiones (and thus links to) *character Y*, they will have one higher count on the out-degree and in-degree, respectively. Therefore, a character mentioned by many other characters will have a high in-degree, thus be considered popular. 
 
-### Degree distribution in total
+### Total degree distribution
 
 ![image description]({{< baseurl >}}/images/total_degree.png)
 
