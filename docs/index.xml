@@ -19,7 +19,7 @@ Their school, Hogwarts School of Witchcraft and Wizardry, has four, so-called, h
     </item>
     
     <item>
-      <title>2 - The Distributions</title>
+      <title>2 - The Attribute Distributions</title>
       <link>https://jennyjyu.github.io/socialgraphs-projectB/posts/post-2/</link>
       <pubDate>Sun, 01 Nov 2020 09:34:43 +0100</pubDate>
       
@@ -27,6 +27,15 @@ Their school, Hogwarts School of Witchcraft and Wizardry, has four, so-called, h
       <description>To get a better understanding of how the wiki is set up, and maybe get a better understanding of coming results, it is interesting to look at the different distributions within the data set.
 Species Let&amp;rsquo;s look at the species first!
 As seen, most of the characters who are important characters are categorized as humans. The wiki does distinguish between if a wizard is a muggle-born, half-blood or pure-blood when categorizing them as human.</description>
+    </item>
+    
+    <item>
+      <title>3 - The Degree Distribution</title>
+      <link>https://jennyjyu.github.io/socialgraphs-projectB/posts/post-3/</link>
+      <pubDate>Fri, 01 Nov 2019 09:34:43 +0100</pubDate>
+      
+      <guid>https://jennyjyu.github.io/socialgraphs-projectB/posts/post-3/</guid>
+      <description>To get a little better understanding of the &amp;ldquo;interactions&amp;rdquo; going on between the wiki pages we will look at the degree distributions of the different characters, and let that decide how popular a character is. The degree distributions are deduced by the links from the different wiki pages. If a character X mentiones (and thus links to) character Y, they will have one higher count on the out-degree and in-degree, respectively.</description>
     </item>
     
   </channel>
