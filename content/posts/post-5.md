@@ -52,4 +52,4 @@ The majority of the characters in the Harry Potter universe are _males_, Hermine
 
 A huge part of the plot in the series is about the _rivalry_ between the four Houses. _Slytherins_ and _Gryffindors_ are frequently pitted against each other, so there is no suprise that the most important characters belongs the these Houses. By observing the ongoing conflict and tension between between _Harry Potter_ and _Draco Malfoy_ throughout the years at hogwarts we gain insight into this rivalry.
 
-![image description]({{< baseurl >}}/images/vs.jpeg)
+![image description]({{< baseurl >}}/images/harry_malfoy.png)
