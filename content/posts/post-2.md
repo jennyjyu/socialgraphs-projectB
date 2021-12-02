@@ -29,16 +29,16 @@ Harry Potter is a male-dominated universe, just as in the universe of computer s
 
 ![image description]({{< baseurl >}}/images/plot_houses.png)
 
-The distribution of the houses from which the characters belong to is interesting. Surprisingly many characters do not have a house related to them, which on second thought, might make sense. As the almost the only characters that can be related to a house are **humans**, all the characters who are not, will have **unknown** as their value. Additionally, many human characters are mentioned without a context of the house they belong to, such as members from the Ministry of Magic.
+The distribution of the Houses from which the characters belong to is interesting. Surprisingly many characters do not have a House related to them, which on second thought, might make sense. As the almost the only characters that can be related to a House are **humans**, all the characters who are not, will have **unknown** as their value. Additionally, many human characters are mentioned without a context of the House they belong to, such as members from the Ministry of Magic.
 
 After looking at only humans, we get the distribution looking like this:
 
 ![image description]({{< baseurl >}}/images/plot_houses2.png)
 
-The majority of counts removed are from **unknown** house. Some are removed from the different houses, as four of the characters belonging to houses were not human. Still, the **unknown** dominates, as the same reason as mentioned before with many humans not mentioned in the context of belonging house. Maybe they even went to another school?
+The majority of counts removed are from **unknown** House. Some are removed from the different Houses, as four of the characters belonging to Houses were not human. Still, the **unknown** dominates, for the same reason as mentioned before with many humans not mentioned in the context of belonging House. Maybe they even went to another school?
 
-If we only look at the characters who *do have* a house related to them, i.e. excluding the **unknown** ones, we get the following distribution:
+If we only look at the characters who *do have* a House related to them, i.e. excluding the **unknown** ones, we get the following distribution:
 
 ![image description]({{< baseurl >}}/images/plot_houses3.png)
 
-Now this looks more representative! As expected, most of the mentioned characters belong to **Gryffindor**, which is Harry and his friends' house. Their rivaling house, **Slytherin**, is also well represented.
+Now this looks more representative! As expected, most of the mentioned characters belong to **Gryffindor**, which is Harry and his friends' House. Their rivaling House, **Slytherin**, is also well represented.

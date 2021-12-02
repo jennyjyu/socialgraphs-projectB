@@ -7,16 +7,16 @@ draft: true
 
 In Harry Potter, there are many characters. That includes both allies and friends of Harry, enemies in terms of school mate rivals, enemies in terms of characters who want him killed, and others who are somewhat neutral.
 
-Their school, **Hogwarts School of Witchcraft and Wizardry**, has four, so-called, houses: 
+Their school, **Hogwarts School of Witchcraft and Wizardry**, has four, so-called, Houses: 
 
 * Gryffindor
 * Slytherin
 * Hufflepuff
 * Ravenclaw 
 
-The different houses have signature colors to their uniforms; red, green, yellow and blue, respectively. 
+The different Houses have signature colors to their uniforms; red, green, yellow and blue, respectively. 
 
-Which house a characters belongs to, determine their **color in the network** below. The gray ones do not go to and have not gone to Hogwarts, and therefore do not belong to any house. Examples of gray nodes are creatures in the woods, pets, death eaters etc.
+Which House a characters belongs to, determine their **color in the network** below. The gray ones do not go to and have not gone to Hogwarts, and therefore do not belong to any House. Examples of gray nodes are creatures in the woods, pets, death eaters etc.
 
 Their **node size** (size of the dot) is determined by how popular a character is, in terms of how mentioned they are by other characters' wiki pages. 
 

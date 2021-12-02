@@ -5,7 +5,7 @@ draft: true
 ---
 
 
-Harry and his two sidekicks, Hermoine and Ron, are intuitively the most central characters, as the stories revolve around them. Let's see if the intuition is reflected in the wiki pages!
+Harry and his two sidekicks, Hermione and Ron, are intuitively the most central characters, as the stories revolve around them. Let's see if the intuition is reflected in the wiki pages!
 
 The degrees of the three friends are as follows:
 
@@ -21,7 +21,7 @@ From the distribution of all total degrees of the characters in [last post](http
 
 ### How important are his friends?
 
-One of the questions from Project A was *"How important are his friends?"*. Now we know that Hermione is appearantly quite important, as she has a high total degree, whereas the majority is from the in-degree. Ron, on the other hand, is sadly not as important. His total degree is lower than the other two, in addition to having most of it coming from his out-degree. The latter meaning that his degree is mostly due to him mentioning many other characters. 
+One of the questions from Project A was *"How important are his friends?"*. Now we know that Hermione is apparently quite important, as she has a high total degree, whereas the majority is from the in-degree. Ron, on the other hand, is sadly not as important. His total degree is lower than the other two, in addition to having most of it coming from his out-degree. The latter meaning that his degree is mostly due to him mentioning many other characters. 
 
 Still, they are both among the upper part of the degree distribution. Hence, even though they are not *as* important as each other and Harry, they do still play a central part. 
 
@@ -36,8 +36,8 @@ To get an even better understanding of the importance of Harry and his friends, 
 | Hermione Granger 	|   0.752   	|    0.074    	|    0.246    	|
 | Ron Weasley      	|   0.564   	|    0.041    	|    0.124    	|
 
-The **closeness** is defined so that if a vertex is close to every other vertex, then the value is larger than if the vertex is not close to everything else [[source]](https://www.sciencedirect.com/topics/computer-science/closeness-centrality#:~:text=require%20many%20steps.-,Closeness%20centrality%20is%20a%20measure%20of%20the%20average%20shortest%20distance,distance%20to%20all%20other%20vertices). As seen in the table, it shows that Harry is closer to the other nodes in the entire network, in comparison with Hermione and Ron. As for degree, their order is decreasing from Harry to Hermoine to Ron. 
+The **closeness** is defined so that if a vertex is close to every other vertex, then the value is larger than if the vertex is not close to everything else [[source]](https://www.sciencedirect.com/topics/computer-science/closeness-centrality#:~:text=require%20many%20steps.-,Closeness%20centrality%20is%20a%20measure%20of%20the%20average%20shortest%20distance,distance%20to%20all%20other%20vertices). As seen in the table, it shows that Harry is closer to the other nodes in the entire network, in comparison with Hermione and Ron. As for degree, their order is decreasing from Harry to Hermione to Ron. 
 
 To calculate **betweenness**, each node receives a score based on the number of shortest paths that pass through the node. Nodes that more frequently lie on shortest paths between other nodes will have higher betweenness centrality scores [[source]](https://neo4j.com/docs/graph-data-science/current/algorithms/betweenness-centrality/#:~:text=Betweenness%20centrality%20is%20a%20way,of%20nodes%20in%20a%20graph.). Again, the order of the characters with respect to their betweenness score is the same. For betweenness there is also a larger gap between Harry's value and the other two, compared with closeness. 
 
-The **eigenvector** is a measure of the influence of a node in a network. A high eigenvector score means that a node is connected to many nodes who also have high scores [[source]](https://en.wikipedia.org/wiki/Eigenvector_centrality#:~:text=In%20graph%20theory%2C%20eigenvector%20centrality,a%20node%20in%20a%20network.&text=A%20high%20eigenvector%20score%20means,who%20themselves%20have%20high%20scores.). For this measure, Harry and Hermione's values are closer. Ron's value still differs more.
+The **eigenvector** is a measure of the influence of a node in a network. A high eigenvector score means that a node is connected to many nodes who also have high scores [[source]](https://en.wikipedia.org/wiki/Eigenvector_centrality#:~:text=In%20graph%20theory%2C%20eigenvector%20centrality,a%20node%20in%20a%20network.&text=A%20high%20eigenvector%20score%20means,who%20themselves%20have%20high%20scores.). For this measure, Harry and Hermione's values are closer. Ron's value still differs more from the others.

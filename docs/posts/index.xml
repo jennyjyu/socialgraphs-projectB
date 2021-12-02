@@ -14,8 +14,8 @@
       
       <guid>https://jennyjyu.github.io/socialgraphs-projectB/posts/post-1/</guid>
       <description>In Harry Potter, there are many characters. That includes both allies and friends of Harry, enemies in terms of school mate rivals, enemies in terms of characters who want him killed, and others who are somewhat neutral.
-Their school, Hogwarts School of Witchcraft and Wizardry, has four, so-called, houses:
- Gryffindor Slytherin Hufflepuff Ravenclaw  The different houses have signature colors to their uniforms; red, green, yellow and blue, respectively.</description>
+Their school, Hogwarts School of Witchcraft and Wizardry, has four, so-called, Houses:
+ Gryffindor Slytherin Hufflepuff Ravenclaw  The different Houses have signature colors to their uniforms; red, green, yellow and blue, respectively.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@ As seen, most of the characters who are important are categorized as humans. The
       <pubDate>Fri, 01 Nov 2019 09:34:43 +0100</pubDate>
       
       <guid>https://jennyjyu.github.io/socialgraphs-projectB/posts/post-3/</guid>
-      <description>To get a little better understanding of the &amp;ldquo;interactions&amp;rdquo; going on between the wiki pages we will look at the degree distributions of the different characters, and let that decide how popular a character is. The degree distributions are deduced by the links from the different wiki pages. If a character X mentiones (and thus links to) character Y, they will have one higher count on the out-degree and in-degree, respectively.</description>
+      <description>To get a little better understanding of the &amp;ldquo;interactions&amp;rdquo; going on between the wiki pages we will look at the degree distributions of the different characters, and let that decide how popular a character is. The degree distributions are deduced by the links from the different wiki pages. If a character X mentions (and thus links to) character Y, they will have one higher count on the out-degree and in-degree, respectively.</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@ As seen, most of the characters who are important are categorized as humans. The
       <pubDate>Thu, 01 Nov 2018 09:34:43 +0100</pubDate>
       
       <guid>https://jennyjyu.github.io/socialgraphs-projectB/posts/post-4/</guid>
-      <description>Harry and his two sidekicks, Hermoine and Ron, are intuitively the most central characters, as the stories revolve around them. Let&amp;rsquo;s see if the intuition is reflected in the wiki pages!
+      <description>Harry and his two sidekicks, Hermione and Ron, are intuitively the most central characters, as the stories revolve around them. Let&amp;rsquo;s see if the intuition is reflected in the wiki pages!
 The degrees of the three friends are as follows:
    Character Total degree In-degree Out-degree     Harry Potter 294 178 116   Hermione Granger 226 138 88   Ron Weasly 157 58 99    From the distribution of all total degrees of the characters in last post (the red plot), it is clear that Harry is the one with the highest degree.</description>
     </item>
@@ -55,7 +55,7 @@ The degrees of the three friends are as follows:
       <pubDate>Sat, 02 Dec 2017 10:03:01 +0100</pubDate>
       
       <guid>https://jennyjyu.github.io/socialgraphs-projectB/posts/post-5/</guid>
-      <description>To decide which characters that is the most important ones, we looked at the degree distributions of the different characters. To get a more detailed explanation of the degree distributions and how these were deduced, see post 3 - The Degree Distribution.
+      <description>To decide which characters are the most important ones, we looked at the degree distributions of the different characters. To get a more detailed explanation of the degree distributions and how these were deduced, see post 3 - The Degree Distribution.
 The top 5 most important characters according to the in-degree and out-degree are presented in the tabels below.
    Character In-degree     Harry Potter 178   Hermione Granger 138   Albus Dumbledore 132   Draco Malfoy 94   Severus Snape 93       Character Out-degree     Harry Potter 116   Albus Dumbledore 110   Ronald Weasley 99   Hermione Granger 88   Tom Riddle 88    As expected, we can see that Harry, Hermine and Ron are some of the most central characters.</description>
     </item>
@@ -66,8 +66,8 @@ The top 5 most important characters according to the in-degree and out-degree ar
       <pubDate>Thu, 01 Dec 2016 13:17:38 +0100</pubDate>
       
       <guid>https://jennyjyu.github.io/socialgraphs-projectB/posts/post-6/</guid>
-      <description>As mentioned earlier, the students at Hogwarts School of Witchcraft and Wizardry belongs to one of the four Houses: Gryffindor, Slytherin, Hufflepuff and Ravenclaw. But what does each Hogwarts House actually respresent?
-All the four Houses has distinctive values and characteristics which are important according the traditions and history of the House. We have produced wordclouds for each House from the texts that was collected from Wiki Fandom page for each character that belong to the House.</description>
+      <description>As mentioned earlier, the students at Hogwarts School of Witchcraft and Wizardry belong to one of the four Houses: Gryffindor, Slytherin, Hufflepuff and Ravenclaw. But what does each Hogwarts House actually represent?
+All the four Houses have distinctive values and characteristics which are important according to the traditions and history of the House. We have produced wordclouds for each House from the texts that were collected from the Wiki Fandom page for each character that belongs to the House.</description>
     </item>
     
   </channel>
