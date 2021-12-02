@@ -49,5 +49,15 @@ The degrees of the three friends are as follows:
    Character Total degree In-degree Out-degree     Harry Potter 294 178 116   Hermione Granger 226 138 88   Ron Weasly 157 58 99    From the distribution of all total degrees of the characters in last post (the red plot), it is clear that Harry is the one with the highest degree.</description>
     </item>
     
+    <item>
+      <title>5 - Wordclouds For Each House</title>
+      <link>https://jennyjyu.github.io/socialgraphs-projectB/posts/post-3-wordclouds/</link>
+      <pubDate>Fri, 01 Dec 2017 13:17:38 +0100</pubDate>
+      
+      <guid>https://jennyjyu.github.io/socialgraphs-projectB/posts/post-3-wordclouds/</guid>
+      <description>As mentioned earlier, the students at Hogwarts School of Witchcraft and Wizardry belongs to one of the four Houses: Gryffindor, Slytherin, Hufflepuff and Ravenclaw. But what does each Hogwarts House actually respresent?
+All the four Houses has distinctive values and characteristics which are important according the traditions and history of the House. We have produced wordclouds for each House from the texts that was collected from Wiki Fandom page for each character that belong to the House.</description>
+    </item>
+    
   </channel>
 </rss>
