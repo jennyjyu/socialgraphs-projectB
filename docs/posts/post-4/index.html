@@ -60,7 +60,7 @@
                             
                             <div class="byline-meta-content">
                                 <time class="byline-meta-date" datetime="2018-911-11">1 November 2018</time>
-                                <span class="byline-reading-time"><span class="bull">&bull;</span> 2 min read</span>
+                                <span class="byline-reading-time"><span class="bull">&bull;</span> 3 min read</span>
                             </div>
                         </section>
 
@@ -111,6 +111,41 @@
 <h3 id="how-important-are-his-friends">How important are his friends?</h3>
 <p>One of the questions from Project A was <em>&ldquo;How important are his friends?&quot;</em>. Now we know that Hermione is appearantly quite important, as she has a high total degree, whereas the majority is from the in-degree. Ron, on the other hand, is sadly not as important. His total degree is lower than the other two, in addition to having most of it coming from his out-degree. The latter meaning that his degree is mostly due to him mentioning many other characters.</p>
 <p>Still, they are both among the upper part of the degree distribution. Hence, even though they are not <em>as</em> important as each other and Harry, they do still play a central part.</p>
+<h3 id="other-centrality-measures">Other centrality measures</h3>
+<p>To get an even better understanding of the importance of Harry and his friends, there are more centrality measures to look at. In the table below, the closeness centrality, betweenness centrality and eigenvector centrality for each of the three characters are presented:</p>
+<table>
+<thead>
+<tr>
+<th>Character</th>
+<th style="text-align:center">Closeness</th>
+<th style="text-align:center">Betweenness</th>
+<th style="text-align:center">Eigenvector</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Harry Potter</td>
+<td style="text-align:center">0.902</td>
+<td style="text-align:center">0.196</td>
+<td style="text-align:center">0.272</td>
+</tr>
+<tr>
+<td>Hermione Granger</td>
+<td style="text-align:center">0.752</td>
+<td style="text-align:center">0.074</td>
+<td style="text-align:center">0.246</td>
+</tr>
+<tr>
+<td>Ron Weasley</td>
+<td style="text-align:center">0.564</td>
+<td style="text-align:center">0.041</td>
+<td style="text-align:center">0.124</td>
+</tr>
+</tbody>
+</table>
+<p>The <strong>closeness</strong> is defined so that if a vertex is close to every other vertex, then the value is larger than if the vertex is not close to everything else <a href="https://www.sciencedirect.com/topics/computer-science/closeness-centrality#:~:text=require%20many%20steps.-,Closeness%20centrality%20is%20a%20measure%20of%20the%20average%20shortest%20distance,distance%20to%20all%20other%20vertices">[source]</a>. As seen in the table, it shows that Harry is closer to the other nodes in the entire network, in comparison with Hermione and Ron. As for degree, their order is decreasing from Harry to Hermoine to Ron.</p>
+<p>To calculate <strong>betweenness</strong>, each node receives a score based on the number of shortest paths that pass through the node. Nodes that more frequently lie on shortest paths between other nodes will have higher betweenness centrality scores <a href="https://neo4j.com/docs/graph-data-science/current/algorithms/betweenness-centrality/#:~:text=Betweenness%20centrality%20is%20a%20way,of%20nodes%20in%20a%20graph.">[source]</a>. Again, the order of the characters with respect to their betweenness score is the same. For betweenness there is also a larger gap between Harry&rsquo;s value and the other two, compared with closeness.</p>
+<p>The <strong>eigenvector</strong> is a measure of the influence of a node in a network. A high eigenvector score means that a node is connected to many nodes who also have high scores <a href="https://en.wikipedia.org/wiki/Eigenvector_centrality#:~:text=In%20graph%20theory%2C%20eigenvector%20centrality,a%20node%20in%20a%20network.&amp;text=A%20high%20eigenvector%20score%20means,who%20themselves%20have%20high%20scores.">[source]</a>. For this measure, Harry and Hermione&rsquo;s values are closer. Ron&rsquo;s value still differs more.</p>
 
                 </div>
             </section>
