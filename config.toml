@@ -3,4 +3,5 @@ languageCode = 'en-us'
 title = 'Harry Potter - A Wiki Analysis'
 theme = 'hugo-casper3'
 publishDir= 'docs'
-
+[markup.goldmark.renderer]
+unsafe=true

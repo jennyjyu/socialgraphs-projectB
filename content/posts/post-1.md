@@ -22,6 +22,4 @@ Their **node size** (size of the dot) is determined by how popular a character i
 
 **Who are the different characters in the network?** Let's find out through deeper analysis in the other blog posts!
 
-
-
-![image description]({{< baseurl >}}/images/character_network.png)
+<img src="{{< baseurl >}}/images/character_network.png" width="600"/>

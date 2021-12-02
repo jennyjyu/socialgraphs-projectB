@@ -17,7 +17,9 @@ The degrees of the three friends are as follows:
  
 From the distribution of all total degrees of the characters in [last post](https://jennyjyu.github.io/socialgraphs-projectB/posts/post-3/) (the red plot), it is clear that Harry is the one with the highest degree. This does make sense as he is the main character. Hermione has a degree of 226, meaning that she is the character with the third highest degree. Ron is more among some other characters with a degree of 115. 
 
-![image description]({{< baseurl >}}/images/venner.png)
+
+<img src="{{< baseurl >}}/images/venner.png" width="450"/>
+
 
 ### How important are his friends?
 
@@ -41,3 +43,5 @@ The **closeness** is defined so that if a vertex is close to every other vertex,
 To calculate **betweenness**, each node receives a score based on the number of shortest paths that pass through the node. Nodes that more frequently lie on shortest paths between other nodes will have higher betweenness centrality scores [[source]](https://neo4j.com/docs/graph-data-science/current/algorithms/betweenness-centrality/#:~:text=Betweenness%20centrality%20is%20a%20way,of%20nodes%20in%20a%20graph.). Again, the order of the characters with respect to their betweenness score is the same. For betweenness there is also a larger gap between Harry's value and the other two, compared with closeness. 
 
 The **eigenvector** is a measure of the influence of a node in a network. A high eigenvector score means that a node is connected to many nodes who also have high scores [[source]](https://en.wikipedia.org/wiki/Eigenvector_centrality#:~:text=In%20graph%20theory%2C%20eigenvector%20centrality,a%20node%20in%20a%20network.&text=A%20high%20eigenvector%20score%20means,who%20themselves%20have%20high%20scores.). For this measure, Harry and Hermione's values are closer. Ron's value still differs more from the others.
+
+<img src="{{< baseurl >}}/images/venner2.jpeg" width="600"/>
