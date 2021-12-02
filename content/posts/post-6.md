@@ -1,5 +1,5 @@
 ---
-title: "6 - Wordclouds For Each House"
+title: "6 - Wordclouds for Each House"
 date: 2016-12-01T13:17:38+01:00
 draft: true
 ---
