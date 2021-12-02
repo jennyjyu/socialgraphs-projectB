@@ -12,7 +12,7 @@ Let's look at the species first!
 
 ![image description]({{< baseurl >}}/images/plot_species.png)
 
-As seen, most of the characters who are important characters are categorized as **humans**. The wiki does distinguish between if a wizard is a muggle-born, half-blood or pure-blood when categorizing them as human. As most of the plot of the Harry Potter story is about the wizards going to Hogwarts, this makes sense. They do encounter some different species now and then, but all the main characters are (or were originally) humans. 
+As seen, most of the characters who are important are categorized as **humans**. The wiki does not distinguish between if a wizard is a muggle-born, half-blood or pure-blood when categorizing them as human. As most of the plot of the Harry Potter story is about the wizards going to Hogwarts, this makes sense. They do encounter some different species now and then, but all the main characters are (or were originally) humans. 
 
 It is important to note that even though many of the species only have one occurrence in the data, it does not mean that it is the only one of its kind in the Harry Potter universe, but rather the only one of their species that has a big enough role to be named, and counted as a character. 
 
@@ -29,7 +29,7 @@ Harry Potter is a male-dominated universe, just as in the universe of computer s
 
 ![image description]({{< baseurl >}}/images/plot_houses.png)
 
-The distribution of the houses from which the characers belong to is intersting. Suprisingly many characters do not have house related to them, which on second thought, might makes sense. As the almost the only characters that can be related to a house are **humans**, all the characters who are not, will have **unknown** as their value. Additionally, many human characters are mentioned without a context of the house they belong to, such as members from the Ministry of Magic. 
+The distribution of the houses from which the characters belong to is interesting. Surprisingly many characters do not have a house related to them, which on second thought, might make sense. As the almost the only characters that can be related to a house are **humans**, all the characters who are not, will have **unknown** as their value. Additionally, many human characters are mentioned without a context of the house they belong to, such as members from the Ministry of Magic.
 
 After looking at only humans, we get the distribution looking like this:
 
@@ -41,4 +41,4 @@ If we only look at the characters who *do have* a house related to them, i.e. ex
 
 ![image description]({{< baseurl >}}/images/plot_houses3.png)
 
-Now this looks more representative! As expected, most of the mentioned characers belong to **Gryffindor**, which is Harry and his friends' house. Their rivaling house, **Slytherin**, is also well represented.
+Now this looks more representative! As expected, most of the mentioned characters belong to **Gryffindor**, which is Harry and his friends' house. Their rivaling house, **Slytherin**, is also well represented.

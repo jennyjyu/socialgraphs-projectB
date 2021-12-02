@@ -10,7 +10,7 @@ The top 5 most important characters according to the _in-degree_ and _out-degree
 
 | **Character**    | **In-degree** |
 | ---------------- | :-----------: |
-| Harry potter     |      178      |
+| Harry Potter     |      178      |
 | Hermione Granger |      138      |
 | Albus Dumbledore |      132      |
 | Draco Malfoy     |      94       |
@@ -24,7 +24,7 @@ The top 5 most important characters according to the _in-degree_ and _out-degree
 | Hermione Granger |       88       |
 | Tom Riddle       |       88       |
 
-As expected, we can see that Harry, Hermine and, Ron are some of the most central characters. The friendship and centrality of these characters are explained in more detail in post [4 - Centrality of Harry and his Friends ]({{< ref "/posts/post-4.md" >}} "4 - Centrality of Harry and his Friends ").
+As expected, we can see that Harry, Hermine and Ron are some of the most central characters. The friendship and centrality of these characters are explained in more detail in post [4 - Centrality of Harry and his Friends ]({{< ref "/posts/post-4.md" >}} "4 - Centrality of Harry and his Friends ").
 
 Furthermore, one can observe that Albus Dumbledore is a very important character with respect to both in- and out-degree. This is not a big suprise as he is the headmaster of Hogwarts. Tom Riddle, better known as Lord Voldemort, alternatively as You-Know-Who, is obviously important as his actions provide the main conflict in the Harry Potter series. Lastly, Draco Malfoy and Severus Snape plays a central role in the ongoing rivalry between Griffindoor and Slythering.
 

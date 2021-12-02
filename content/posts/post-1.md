@@ -16,7 +16,7 @@ Their school, **Hogwarts School of Witchcraft and Wizardry**, has four, so-calle
 
 The different houses have signature colors to their uniforms; red, green, yellow and blue, respectively. 
 
-Which house a characters belongs to, determine their **color in the network**below. The gray ones do not go to and have not gone to Hogwarts, and therefore do not belong to any house. Examples of gray nodes are creatures in the woods, pets, death eaters etc.
+Which house a characters belongs to, determine their **color in the network** below. The gray ones do not go to and have not gone to Hogwarts, and therefore do not belong to any house. Examples of gray nodes are creatures in the woods, pets, death eaters etc.
 
 Their **node size** (size of the dot) is determined by how popular a character is, in terms of how mentioned they are by other characters' wiki pages. 
 

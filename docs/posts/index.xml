@@ -26,7 +26,7 @@ Their school, Hogwarts School of Witchcraft and Wizardry, has four, so-called, h
       <guid>https://jennyjyu.github.io/socialgraphs-projectB/posts/post-2/</guid>
       <description>To get a better understanding of how the wiki is set up, and maybe get a better understanding of coming results, it is interesting to look at the different distributions within the data set.
 Species Let&amp;rsquo;s look at the species first!
-As seen, most of the characters who are important characters are categorized as humans. The wiki does distinguish between if a wizard is a muggle-born, half-blood or pure-blood when categorizing them as human.</description>
+As seen, most of the characters who are important are categorized as humans. The wiki does not distinguish between if a wizard is a muggle-born, half-blood or pure-blood when categorizing them as human.</description>
     </item>
     
     <item>
@@ -57,15 +57,15 @@ The degrees of the three friends are as follows:
       <guid>https://jennyjyu.github.io/socialgraphs-projectB/posts/post-5/</guid>
       <description>To decide which characters that is the most important ones, we looked at the degree distributions of the different characters. To get a more detailed explanation of the degree distributions and how these were deduced, see post 3 - The Degree Distribution.
 The top 5 most important characters according to the in-degree and out-degree are presented in the tabels below.
-   Character In-degree     Harry potter 178   Hermione Granger 138   Albus Dumbledore 132   Draco Malfoy 94   Severus Snape 93       Character Out-degree     Harry Potter 116   Albus Dumbledore 110   Ronald Weasley 99   Hermione Granger 88   Tom Riddle 88    As expected, we can see that Harry, Hermine and, Ron are some of the most central characters.</description>
+   Character In-degree     Harry Potter 178   Hermione Granger 138   Albus Dumbledore 132   Draco Malfoy 94   Severus Snape 93       Character Out-degree     Harry Potter 116   Albus Dumbledore 110   Ronald Weasley 99   Hermione Granger 88   Tom Riddle 88    As expected, we can see that Harry, Hermine and Ron are some of the most central characters.</description>
     </item>
     
     <item>
       <title>6 - Wordclouds For Each House</title>
-      <link>https://jennyjyu.github.io/socialgraphs-projectB/posts/post-3-wordclouds/</link>
+      <link>https://jennyjyu.github.io/socialgraphs-projectB/posts/post-6/</link>
       <pubDate>Thu, 01 Dec 2016 13:17:38 +0100</pubDate>
       
-      <guid>https://jennyjyu.github.io/socialgraphs-projectB/posts/post-3-wordclouds/</guid>
+      <guid>https://jennyjyu.github.io/socialgraphs-projectB/posts/post-6/</guid>
       <description>As mentioned earlier, the students at Hogwarts School of Witchcraft and Wizardry belongs to one of the four Houses: Gryffindor, Slytherin, Hufflepuff and Ravenclaw. But what does each Hogwarts House actually respresent?
 All the four Houses has distinctive values and characteristics which are important according the traditions and history of the House. We have produced wordclouds for each House from the texts that was collected from Wiki Fandom page for each character that belong to the House.</description>
     </item>
