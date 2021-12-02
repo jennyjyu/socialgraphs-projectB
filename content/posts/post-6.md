@@ -15,7 +15,7 @@ Every house has its own emblematic animal which is a lion, snake, eagle and badg
 
 From the wordcloud we can deduce that _Voldemort_, _death_ and _battle_ are the three most mentioned words on the Gryffindors wikipages. The Gryffindors are in fact known for their chivalry, daring and bravery which reflects why these words are of such importance. The bravery tends to come in handy when fighting dark wizards.
 
-Another characteristic of Gryffindors is the importance of friendship and the desire to help others, especially when it comes to protecting their friends. This is reflected by the terms _friend_ and _family_ in the wordcloud. Harry, Hermine and Ron have a very strong friendship and it is said that _a Gryffindor friendship can overcome (almost) anything_.
+Another characteristic of Gryffindors is the importance of friendship and the desire to help others, especially when it comes to protecting their friends. This is reflected by the terms _friend_ and _family_ in the wordcloud. Harry, Hermione and Ron have a very strong friendship and it is said that _a Gryffindor friendship can overcome (almost) anything_.
 
 **Slytherin**
 ![image description]({{< baseurl >}}/images/wc_slytherin.png)

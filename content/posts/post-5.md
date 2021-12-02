@@ -24,7 +24,7 @@ The top 5 most important characters according to the _in-degree_ and _out-degree
 | Hermione Granger |       88       |
 | Tom Riddle       |       88       |
 
-As expected, we can see that Harry, Hermine and Ron are some of the most central characters. The friendship and centrality of these characters are explained in more detail in post [4 - Centrality of Harry and his Friends ]({{< ref "/posts/post-4.md" >}} "4 - Centrality of Harry and his Friends ").
+As expected, we can see that Harry, Hermione and Ron are some of the most central characters. The friendship and centrality of these characters are explained in more detail in post [4 - Centrality of Harry and his Friends ]({{< ref "/posts/post-4.md" >}} "4 - Centrality of Harry and his Friends ").
 
 Furthermore, one can observe that Albus Dumbledore is a very important character with respect to both in- and out-degree. This is not a big surprise as he is the headmaster of Hogwarts. Tom Riddle, better known as Lord Voldemort, alternatively as You-Know-Who, is obviously important as his actions provide the main conflict in the Harry Potter series. Lastly, Draco Malfoy and Severus Snape plays a central role in the ongoing rivalry between Gryffindor and Slytherin.
 
@@ -48,7 +48,7 @@ Although we meet a huge variety of magical creatures in Harry Potter, one can de
 
 ![image description]({{< baseurl >}}/images/youreawizardharry.png)
 
-The majority of the characters in the Harry Potter universe are _males_, Hermine is the most prominent _female_ character.
+The majority of the characters in the Harry Potter universe are _males_, Hermione is the most prominent _female_ character.
 
 A huge part of the plot in the series is about the _rivalry_ between the four Houses. _Slytherins_ and _Gryffindors_ are frequently pitted against each other, so there is no surprise that the most important characters belong to these Houses. By observing the ongoing conflict and tension between _Harry Potter_ and _Draco Malfoy_ throughout the years at Hogwarts we gain insight into this rivalry.
 
