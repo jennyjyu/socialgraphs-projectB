@@ -1,5 +1,5 @@
 ---
-title: "5 - Attributes of most important characters"
+title: "5 - Attributes of the Most Important Characters"
 date: 2017-12-02T10:03:01+01:00
 draft: true
 ---
