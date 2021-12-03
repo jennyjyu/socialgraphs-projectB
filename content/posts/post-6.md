@@ -41,3 +41,15 @@ The _Unknown_ category includes people, creatures, pets etc. who have not gone t
 
 It is clear that the wordclouds gives an insight into the most important traits related to each House. The characteristics of each House can be deduced by studying the wordcloud, but it is definitely easier for someone with domain knowledge about the Harry Potter universe.
 
+**Wordclouds based on TC-IDF**
+
+When the group generated the wordclouds we also considered to calculate the number of occurrences of each word by repeating each word according to its TC-IDF score. The point of TC-IDF is to measure how relevant a word is to a document in a document collection.
+
+- TC - Term Count - number of occurrences of term t in document d (TF not normalized by len of document)
+- IDF - Inverse Document Frequency - The idf of a rare term is high, whereas the idf of a frequent term is likely to be low. It is used to reduce the relative importance of terms that appear frequently in all documents.
+
+Although the four Houses have several distinctive characteristics, they also have much in common. By applying our domain knowledge about the Houses we found the wordclouds more descriptive when only taking the frequency of words into account, instead of the TC-IDF values.
+
+The wordclouds that were generated from the TC-IDF scores are presented below.
+
+![image description]({{< baseurl >}}/images/wc_TC_IDF.png)
