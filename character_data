@@ -1,0 +1,201 @@
+,Name,Species,Gender,House
+0,Hannah Abbott,Human,Female,Hufflepuff
+1,Ludo Bagman,Human,Male,-
+2,Bathilda Bagshot,Human,Female,-
+3,Katie Bell,Human,Female,Gryffindor
+4,Cuthbert Binns,-,Male,-
+5,Phineas Nigellus Black,Human,Male,Slytherin
+6,Sirius Black,Human,Male,Gryffindor
+7,Amelia Bones,Human,Female,-
+8,Susan Bones,Human,Female,Hufflepuff
+9,Terry Boot,Human,Male,Ravenclaw
+10,Lavender Brown,Human,Female,Gryffindor
+11,Millicent Bulstrode,Human,Female,Slytherin
+12,Charity Burbage,Human,Female,-
+13,Frank Bryce,Human,Male,-
+14,Alecto Carrow,Human,Female,Slytherin
+15,Amycus Carrow,Human,Male,Slytherin
+16,Reginald Cattermole,Human,Male,-
+17,Cho Chang,Human,Female,Ravenclaw
+18,Penelope Clearwater,Human,Female,Ravenclaw
+19,Crabbe,Human,Male,Slytherin
+20,Vincent Crabbe,Human,Male,Slytherin
+21,Colin Creevey,Human,Male,Gryffindor
+22,Dennis Creevey,Human,Male,Gryffindor
+23,Dirk Cresswell,Human,Male,-
+24,Barty Crouch Sr,Human,Male,-
+25,Barty Crouch Jr,Human,Male,-
+26,John Dawlish,Human,Male,-
+27,Fleur Delacour,-,Female,-
+28,Gabrielle Delacour,Human,Female,-
+29,Dedalus Diggle,Human,Male,-
+30,Amos Diggory,Human,Male,-
+31,Cedric Diggory,Human,Male,Hufflepuff
+32,Elphias Doge,Human,Male,-
+33,Antonin Dolohov,Human,Male,-
+34,Aberforth Dumbledore,Human,Male,-
+35,Albus Dumbledore,Human,Male,Gryffindor
+36,Ariana Dumbledore,Human,Female,-
+37,Kendra Dumbledore,Human,Female,-
+38,Percival Dumbledore,Human,Male,-
+39,Dudley Dursley,Human,Male,-
+40,Marge Dursley,Human,Female,-
+41,Petunia Dursley,Human,Female,-
+42,Vernon Dursley,Human,Male,-
+43,Marietta Edgecombe,Human,Female,Ravenclaw
+44,Arabella Figg,Human,Female,-
+45,Argus Filch,Human,Male,-
+46,Justin Finch-Fletchley,Human,Male,Hufflepuff
+47,Seamus Finnigan,Human,Male,Gryffindor
+48,Nicolas Flamel,Human,Male,-
+49,Mundungus Fletcher,Human,Male,-
+50,Filius Flitwick,Human,Male,Ravenclaw
+51,Cornelius Fudge,Human,Male,-
+52,Marvolo Gaunt,Human,Male,-
+53,Merope Gaunt,Human,Female,-
+54,Morfin Gaunt,Human,Male,-
+55,Anthony Goldstein,Human,Male,Ravenclaw
+56,Goyle,Human,Male,Slytherin
+57,Gregory Goyle,Human,Male,Slytherin
+58,Hermione Granger,Human,Female,Gryffindor
+59,Astoria Greengrass,Human,Female,-
+60,Gregorovitch,Human,Male,-
+61,Fenrir Greyback,Werewolf,Male,-
+62,Gellert Grindelwald,Human,Male,-
+63,Wilhelmina Grubbly-Plank,Human,Female,-
+64,Godric Gryffindor,Human,Male,Gryffindor
+65,Rubeus Hagrid,-,Male,Gryffindor
+66,Rolanda Hooch,Human,Female,-
+67,Mafalda Hopkirk,Human,Female,-
+68,Helga Hufflepuff,Human,Female,Hufflepuff
+69,Angelina Johnson,Human,Female,Gryffindor
+70,Lee Jordan,Human,Male,Gryffindor
+71,Bertha Jorkins,Human,Female,-
+72,Igor Karkaroff,Human,Male,-
+73,Viktor Krum,Human,Male,-
+74,Silvanus Kettleburn,Human,Male,Hufflepuff
+75,Bellatrix Lestrange,Human,Female,Slytherin
+76,Gilderoy Lockhart,Human,Male,Ravenclaw
+77,Alice and Frank Longbottom,-,-,-
+78,Augusta Longbottom,Human,Female,-
+79,Neville Longbottom,Human,Male,Gryffindor
+80,Luna Lovegood,Human,Female,Ravenclaw
+81,Xenophilius Lovegood,Human,Male,Ravenclaw
+82,Remus Lupin,Werewolf,Male,Gryffindor
+83,Walden Macnair,Human,Male,-
+84,Draco Malfoy,Human,Male,Slytherin
+85,Lucius Malfoy,Human,Male,Slytherin
+86,Narcissa Malfoy,Human,Female,Slytherin
+87,Scorpius Malfoy,Human,Male,Slytherin
+88,Madam Malkin,Human,Female,-
+89,Griselda Marchbanks,Human,Female,-
+90,Olympe Maxime,-,Female,-
+91,Ernie Macmillan,Human,Male,Hufflepuff
+92,Minerva McGonagall,Human,Female,Gryffindor
+93,Eloise Midgen,Human,Female,Gryffindor
+94,Cormac McLaggen,Human,Male,Gryffindor
+95,Graham Montague,Human,Male,Slytherin
+96,Alastor Moody,Human,Male,-
+97,Theodore Nott,Human,Male,Slytherin
+98,Nott,Human,Male,-
+99,Bob Ogden,Human,Male,-
+100,Garrick Ollivander,Human,Male,Ravenclaw
+101,Pansy Parkinson,Human,Female,Slytherin
+102,Padma Patil,Human,Female,Ravenclaw
+103,Parvati Patil,Human,Female,Gryffindor
+104,Peter Pettigrew,Human,Male,Gryffindor
+105,Irma Pince,Human,Female,-
+106,Sturgis Podmore,Human,Male,-
+107,Poppy Pomfrey,Human,Female,-
+108,Harry Potter,Human,Male,Gryffindor
+109,James Potter,-,-,-
+110,Lily Potter,-,-,-
+111,Albus Severus Potter,Human,Male,Slytherin
+112,James Sirius Potter,Human,Male,Gryffindor
+113,Lily Luna Potter,-,-,-
+114,Quirinus Quirrell,Human,Male,Ravenclaw
+115,Helena Ravenclaw,-,Female,Ravenclaw
+116,Rowena Ravenclaw,Human,Female,Ravenclaw
+117,Delphi Riddle,Human,Female,-
+118,Mary Riddle,Human,Female,-
+119,Tom Riddle Senior,Human,Male,-
+120,Thomas Marvolo Riddle,Human,Male,Slytherin
+121,Demelza Robins,Human,Female,Gryffindor
+122,Augustus Rookwood,Human,Male,-
+123,Thorfinn Rowle,Human,Male,-
+124,Albert Runcorn,Human,Male,-
+125,Newt Scamander,Human,Male,Hufflepuff
+126,Rufus Scrimgeour,Human,Male,-
+127,Kingsley Shacklebolt,Human,Male,-
+128,Stan Shunpike,Human,Male,-
+129,Aurora Sinistra,Human,Female,-
+130,Rita Skeeter,Human,Female,-
+131,Horace Slughorn,Human,Male,Slytherin
+132,Salazar Slytherin,Human,Male,Slytherin
+133,Zacharias Smith,Human,Male,Hufflepuff
+134,Severus Snape,Human,Male,Slytherin
+135,Alicia Spinnet,Human,Female,Gryffindor
+136,Pomona Sprout,Human,Female,Hufflepuff
+137,Pius Thicknesse,Human,Male,-
+138,Dean Thomas,Human,Male,Gryffindor
+139,Andromeda Tonks,Human,Female,Slytherin
+140,Nymphadora Tonks,Human,Female,Hufflepuff
+141,Ted Tonks,Human,Male,-
+142,Sybill Trelawney,Human,Female,Ravenclaw
+143,Wilkie Twycross,Human,Male,-
+144,Dolores Umbridge,Human,Female,Slytherin
+145,Emmeline Vance,Human,Female,-
+146,Romilda Vane,Human,Female,Gryffindor
+147,Septima Vector,Human,Female,-
+148,Lord Voldemort,Human,Male,Slytherin
+149,Myrtle Warren,-,Female,Ravenclaw
+150,Arthur Weasley,Human,Male,Gryffindor
+151,Bill Weasley,Human,Male,Gryffindor
+152,Charlie Weasley,Human,Male,Gryffindor
+153,Fred Weasley,Human,Male,Gryffindor
+154,George Weasley,Human,Male,Gryffindor
+155,Ginny Weasley,Human,Female,Gryffindor
+156,Hugo Weasley,-,-,-
+157,Molly Weasley,Human,Female,Gryffindor
+158,Percy Weasley,Human,Male,Gryffindor
+159,Ron Weasley,Human,Male,Gryffindor
+160,Oliver Wood,Human,Male,Gryffindor
+161,Rose Weasley,-,-,-
+162,Corban Yaxley,Human,Male,-
+163,Blaise Zabini,Human,Male,Slytherin
+164,Aragog,Acromantula,Male,-
+165,Bane,Centaur,Male,-
+166,Beedle the Bard,Human,Male,-
+167,The Bloody Baron,-,-,-
+168,Bogrod,Goblin,Male,-
+169,Buckbeak,Hippogriff,Male,-
+170,Sir Cadogan,Human,Male,Gryffindor
+171,Crookshanks,-,Male,-
+172,Dobby,-,Male,-
+173,Errol,Great grey owl,Male,-
+174,Fang,Boarhound,Male,-
+175,The Fat Friar,-,-,-
+176,Fat Lady,Human,Female,Gryffindor
+177,Fawkes,Phoenix,Male,-
+178,Firenze,Centaur,Male,-
+179,Fluffy,-,Male,-
+180,Gornuk,Goblin,Male,-
+181,Grawp,Giant,Male,-
+182,Griphook,Goblin,Male,-
+183,Hedwig,Snowy owl,Female,-
+184,Hokey,-,Female,-
+185,Kreacher,-,Male,-
+186,Magorian,Centaur,Male,-
+187,Muriel,Human,Female,-
+188,Nagini,-,-,-
+189,Nearly Headless Nick,-,-,-
+190,Norbert,Norwegian Ridgeback,Female,-
+191,Peeves,Poltergeist,Male,-
+192,Pigwidgeon,Scops owl,Male,-
+193,Madam Rosmerta,Human,Female,-
+194,Ronan,Centaur,Male,-
+195,Scabbers,-,-,-
+196,Scabior,Human,Male,Slytherin
+197,Travers,Human,Male,-
+198,Trevor,Toad,Male,-
+199,Winky,-,Female,-
